@@ -1,0 +1,36 @@
+
+
+emulate:
+passive: when getting hit with something while empty handed they copy the weapon but only at 20 durability left, this passive can be activated once every 5 minutes
+passive: for when killing a player you get one ability from them until you die again before you die again you can continuesly use the ability for the person with the same limitation using Shift left click
+killing a mob lets you transform into it for 30 seconds with a cooldown of 2 minutes
+
+
+
+
+Nocturne Fangs:
+passive:
+lifesteal effect when killing a player
+
+Active:
+can transform into a bat for 10 seconds (2 minute cooldown)
+can suck the blood of a player when shift leftclicking to get a health boost (10 second cooldown)
+blood harvest, creates a blood zone where you step into it to suck the blood off people for regeneration
+
+
+
+
+
+Bugs:
+
+
+shadow bind center particle doesnt get removed
+
+
+
+
+
+
+to do:
+better fancier particles
+implament copy cat, nocturne fangs, 
