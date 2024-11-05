@@ -1,53 +1,6 @@
 
 
-emulate:
-passive: when getting hit with something while empty handed they copy the weapon but only at 20 durability left and you cannot repair this weapon, this passive can be activated once every 5 minutes
-passive: for when killing a player you get one ability from them until you die again before you die again you can continuesly use the ability for the person with the same limitation using Shift left click
-killing a mob lets you use its abilities by using Shift Right click eg: creeper (explosion only once before you die when using shift riht click), enderman (tp every 10 seconds to a place you want), sheep (eat grass for health), skeleton (summon a bow and arrows when using shift right click), vex (permanent elytra effect without equipping the elytra (passive) ), zombie (enhanced attack when using shift right click) Note: these will dissapear after you die
 
-
-
-
-Nocturne Fangs:
-passive:
-lifesteal effect when killing a player
-
-Active:
-can turn other players into vampires that make them unable to go in sunlight but get permanent buff of strength 2, regeneration 1, speed 1, (ONLY USE 3 TIMES)
-can suck the blood of a player when shift leftclicking to get a health boost (10 second cooldown)
-blood harvest, creates a blood zone where you step into it to suck the blood off people for regeneration
-
-
-
-
-Curse stiefling:
-Left click +shift: creates a beam of poison that inflicts poison to the person hit for 5 seconds (cooldown of 20 seconds)
-
-Right click + shift: creates a domain of bubbling poison in a 7x7 square that inflicts, hunger, poison, slowness, nausea 1, no regeneration, these effects will last 10 seconds
-
-right click on a block takes the life out of blocks in a 10x10 square, turning them into the the dead varient, EG: takes the leaves away from trees grass turns into dirt, and you gain the ability, if hitting anyone it inflicts random debuffs, and creates a trail of poison under your feet.
-
-
-
-
-Spectral Weaver
-Passive:
-
-Phase Shift: When taking fatal damage, you become intangible for 5 seconds, avoiding all damage during this time. This passive can activate once every 5 minutes, allowing you a quick escape or reposition.
-Abilities:
-
-Soul Tether (Shift + Left-Click): Link with a nearby player , averaging out the two players health for 1 minute. (5-minute cooldown).
-
-Spectral Shadow (Shift + right click): pass through a wall if hugging the wall that lasts for 2 seconds (2 second cooldown)
-
-
-
-lightning user:
-permanent speed 1
-
-Shift Left Click: summon lightning wherever block  your looking ( 20 second cooldown)
-shift + right click: gain speed 5 and make a lightning aura around you, if a player or enemy hits the aura they get paralised for 1 second (2 minute cooldown)
-right click  empty hand anywhere: creates a shockwave of lightning aura that slows down enemies and mobs (esentially slowing down time in a 10x10 raidius) (5 minute cooldown)
 
 
 
@@ -77,6 +30,11 @@ Bugs:
 
 
 shadow bind center particle doesnt get removed
+
+IMPORTANT:
+Intangible bulwark barrier wall doesnt make a barrier.
+trapping players work but the barrier doesnt work.
+
 
 
 
