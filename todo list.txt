@@ -33,14 +33,20 @@ shadow bind center particle doesnt get removed
 
 IMPORTANT:
 Intangible bulwark barrier wall doesnt make a barrier.
-trapping players work but the barrier doesnt work.
+get rid of dream walker and replace it with another class
+
+
+
+BALANCE CHANGES:
+vampire turn vampire ability needs to make the turned unable to go in sunlight
+diminutive enchanter size changes cause you to go full hp when transforming and when turning back
+poison domain needs to be bigg by 3x
+paradoxical envoy cube needs to last a lot less active time
+lightning strike, speed force and time slow cooldowns need to be reduces
+speed class needs permanent speed 2 instead of speed 1
 
 
 
 
 
 
-
-to do:
-better fancier particles
-implament copy cat, nocturne fangs, 
