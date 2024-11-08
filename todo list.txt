@@ -27,6 +27,22 @@
 
 
 Bugs:
+vampire sunlight damage works even at night and under trees and still keeps going if you die
+
+
+Well you should be able to use abilities not on the ground Ruins some abilities like poison beam
+Instead of 3 active abilities you should do 2 active and 1 passive
+It’s more interesting and 3 abilities can be overwhelming
+More easier to code anyways so it’s a win win
+Particles of abilities are kind of unclear
+Like I was just using my abilities and not knowing if it hit you or not
+Plus not satisfying to us
+
+
+
+
+
+
 
 
 shadow bind center particle doesnt get removed
